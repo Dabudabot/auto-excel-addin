@@ -1,4 +1,4 @@
-# Lucy automatization Excel AddIn
+# Automatization Excel AddIn
 Small excel addin for automatization for statistics and charts
 
 How it looks:
